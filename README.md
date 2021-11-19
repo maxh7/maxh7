@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @maxh7
+- 👋 Hi, I’m Morpheus
 - 👀 I’m interested in finance & technology
 - 🌱 I’m currently learning java, C, python, flask, html, R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
