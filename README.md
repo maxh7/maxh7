@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Morpheus
 - 👀 I’m interested in finance & technology
-- 🌱 I’m currently learning java, C, python, flask, html, R
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning java, C, python, R
+- 💞️ I’m looking to collaborate on projects regarding Data Science
