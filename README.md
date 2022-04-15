@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in everything evolving around technology
 - 💞️ Raspberry Pi enthusiast :)
-- 🌱 I’m currently learning java, C, python, R
 - 💞️ I’m looking to collaborate on projects regarding Engineering & SE, Data Science
 - Feel free to connect / reach out 
